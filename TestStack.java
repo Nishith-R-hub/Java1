@@ -27,7 +27,7 @@ class Stack{
 System.out.println(stk[i]);}}}}
      
        
-public class StackOperation{
+public class TestStack{
   public static void main(String[] args){
     int ch;
     Stack stack1=new Stack();
